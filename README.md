@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
