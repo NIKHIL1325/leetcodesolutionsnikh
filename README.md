@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Math
@@ -43,6 +44,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -53,4 +55,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
