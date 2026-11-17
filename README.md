@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
