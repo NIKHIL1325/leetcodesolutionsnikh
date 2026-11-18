@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0503-next-greater-element-ii) |
@@ -105,4 +106,16 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
