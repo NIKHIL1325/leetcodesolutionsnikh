@@ -42,6 +42,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,11 +135,13 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
