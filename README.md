@@ -19,6 +19,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0410-split-array-largest-sum) |
@@ -123,6 +124,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
@@ -159,9 +162,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
