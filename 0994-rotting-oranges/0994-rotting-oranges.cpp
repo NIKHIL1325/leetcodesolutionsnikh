@@ -9,18 +9,23 @@ public:
     queue<pair<pair<int,int>,int>> q;
 
      int count =0;
+     int fresh =0;
      for(int i =0;i<n;i++){
         for(int j =0;j<m;j++){
             if(grid[i][j]== 2){
                 q.push({{i,j},0});
             visi[i][j] = 1;
             }
+             if(grid[i][j] == 1){
+                fresh++;
+            }
+
         }
      }
      int tm =0;
      int delrow[] ={-1,0,0,+1};
      int delcol[] = {0,-1,+1,0};
-
+int rotted =0;
      while(!q.empty()){
         int r = q.front().first.first;
             int c = q.front().first.second;
@@ -36,17 +41,20 @@ public:
             && visi[nrow][ncol] != 1 && grid[nrow][ncol] == 1){
                 q.push({{nrow,ncol},t+1});
                 visi[nrow][ncol] = 1;
+                rotted ++;
             }
         }
      } 
 
-     for(int i=0;i<n;i++){
-        for(int j =0 ; j<m;j++){
-            if(visi[i][j] != 1 && grid[i][j] == 1){
-                return -1;
-            }
-        }
-     }
-return tm;
+     return fresh == rotted ? tm : -1;
+
+    //  for(int i=0;i<n;i++){
+    //     for(int j =0 ; j<m;j++){
+    //         if(visi[i][j] != 1 && grid[i][j] == 1){
+    //             return -1;
+    //         }
+    //     }
+     
+// return tm;
     }
 };
