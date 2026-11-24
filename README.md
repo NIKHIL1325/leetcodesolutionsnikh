@@ -28,6 +28,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
@@ -133,6 +134,7 @@
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0733-flood-fill](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -182,6 +186,7 @@
 | [0200-number-of-islands](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/NIKHIL1325/leetcodesolutionsnikh/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |
